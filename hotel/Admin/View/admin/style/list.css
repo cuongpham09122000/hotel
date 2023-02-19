@@ -1,0 +1,49 @@
+
+#form-phong{
+  float: right;
+  width: 70%;
+  }
+  
+table {
+    border-collapse: collapse;
+    border: 1px solid rgb(100, 136, 227);
+    width: 80%;
+  }
+  
+  tr, th {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    border: 1px solid #111;
+    background-color: aqua;
+  }
+    a {
+        text-decoration: none;
+        color: #111;
+    }
+  .addnew:hover{
+    background-color: rgb(217, 113, 113);
+  }
+
+  td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #111;
+    background-color: beige;
+  }
+  h1 {
+    color: rgb(30, 80, 80);
+  }
+  
+  tr:hover {
+    background-color: rgb(108, 192, 223);
+}
+
+.edit:hover{
+    background-color: rgb(108, 192, 223);
+}
+.del:hover{
+    background-color: rgb(108, 192, 223);
+}
+
+
